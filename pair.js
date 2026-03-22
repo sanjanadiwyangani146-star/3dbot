@@ -44,8 +44,8 @@ const config = {
 };
 
 const octokit = new Octokit({ auth: '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' });
-const owner = 'Lakshanteach';
-const repo = 'FREE-BOT-V1-PROJECT';
+const owner = 'sanjanadiwyangani146-star';
+const repo = '3dbot';
 
 const activeSockets = new Map();
 const socketCreationTime = new Map();
